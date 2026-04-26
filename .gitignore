@@ -1,0 +1,23 @@
+### Gradle ###
+.gradle/
+build/
+.codex
+
+### IntelliJ ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Logs ###
+*.log
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Env ###
+.env
